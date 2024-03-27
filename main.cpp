@@ -8,8 +8,9 @@ int main()
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 
-	cout << "Сделаем мир ярче!\n";
+	
 
     std::cout << "Hello From sonicexe1358!"<<std::endl;
+std::cout << "Hello From doma"<<std::endl;
     return 0;
 }
